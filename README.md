@@ -18,6 +18,13 @@ Right now, I mainly focus on:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-LLM-blue?style=flat-square)
 
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=xinpipi-ai&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinpipi-ai&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170" />
+</p>
+
 ## Featured Projects
 
 | Project | What it does | Stack |
