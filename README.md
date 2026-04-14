@@ -1,3 +1,5 @@
+![Profile banner](./assets/profile-banner.svg)
+
 # Hi, I'm Xinpipi
 
 I'm transitioning from investment research and tooling into a more formal software engineering path.
