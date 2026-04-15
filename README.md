@@ -11,12 +11,23 @@ My recent work sits at the intersection of:
 - practical tools that can be run, inspected, and iterated on
 - turning research logic into software-shaped projects
 
+![Tech focus](./assets/tech-focus.svg)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-LLM-blue?style=flat-square)
+
+## Tech Focus
+
+| Area | Tools and strengths |
+|---|---|
+| Languages | Python, SQL-flavored data work, practical scripting |
+| Data and research | Tushare, market data handling, structured JSON outputs, research workflows |
+| LLM systems | DeepSeek-based agents, prompt workflows, reasoning pipelines |
+| Product layer | Streamlit apps, local tools, GitHub-facing documentation and demos |
 
 ## Portfolio Snapshot
 
