@@ -77,7 +77,7 @@
 
 文件：
 
-- [project-cover-template-blue.svg](/Users/xinwei/Documents/xinpipi-ai/templates/project-cover-template-blue.svg)
+- [project-cover-template-blue.svg](./project-cover-template-blue.svg)
 
 ### 绿色模板
 
@@ -89,7 +89,7 @@
 
 文件：
 
-- [project-cover-template-green.svg](/Users/xinwei/Documents/xinpipi-ai/templates/project-cover-template-green.svg)
+- [project-cover-template-green.svg](./project-cover-template-green.svg)
 
 ## 替换字段清单
 
