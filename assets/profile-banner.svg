@@ -67,8 +67,8 @@
   </g>
 
   <text x="86" y="118" fill="#F8FAFC" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-size="52" font-weight="700">Xinpipi</text>
-  <text x="86" y="160" fill="#BAE6FD" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="1.2">AI × 量化 × 投研工具</text>
-  <text x="86" y="204" fill="#CBD5E1" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-size="19" font-weight="400">用 Python、Streamlit 和 LLM 工作流构建可本地运行的投研产品。</text>
+  <text x="86" y="160" fill="#BAE6FD" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="1.2">AI × QUANT × 投研工具</text>
+  <text x="86" y="204" fill="#CBD5E1" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-size="19" font-weight="400">用 Python、Streamlit 和 LLM Workflows 构建可本地运行的投研产品。</text>
 
   <g>
     <rect x="86" y="234" width="118" height="30" rx="15" fill="#0F2745" stroke="#38BDF8" stroke-opacity="0.45"/>
