@@ -71,12 +71,6 @@
 - 提升代码质量、文档质量和项目包装
 - 让每个仓库更接近真正可展示的产品，而不是原型
 
-## 复用模板
-
-- [项目封面模板说明](/Users/xinwei/Documents/xinpipi-ai/templates/PROJECT_COVER_TEMPLATE.md)
-- [蓝色封面模板](/Users/xinwei/Documents/xinpipi-ai/templates/project-cover-template-blue.svg)
-- [绿色封面模板](/Users/xinwei/Documents/xinpipi-ai/templates/project-cover-template-green.svg)
-
 ## GitHub 统计
 
 <p>
@@ -87,4 +81,4 @@
 ## 说明
 
 这里的大部分项目都来自真实需求和持续迭代。
-我的目标不只是把它们做出来，而是一步步把它们打磨成更专业、更完整、也更能代表自己的作品。
+我希望把它们持续打磨成更完整、更稳定、也更适合长期展示的作品。
