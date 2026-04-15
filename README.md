@@ -1,15 +1,15 @@
 ![Profile banner](./assets/profile-banner.svg)
 
-# Hi, I'm Xinpipi
+# 你好，我是 Xinpipi
 
-I build local, runnable investment research systems with Python, LLM workflows, and data tooling.
+我专注于把投资研究思路做成可以本地运行、可以演示、也可以持续迭代的软件项目。
 
-My recent work sits at the intersection of:
+最近一段时间，我主要在做这几类方向：
 
-- multi-agent research workflows
-- quant and event-driven stock selection
-- practical tools that can be run, inspected, and iterated on
-- turning research logic into software-shaped projects
+- 多智能体投研工作流
+- 量化分析与事件驱动选股工具
+- 可本地运行、可复用、可展示的研究产品
+- 把研究逻辑沉淀成更像软件系统的项目
 
 ![Tech focus](./assets/tech-focus.svg)
 
@@ -20,65 +20,65 @@ My recent work sits at the intersection of:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-LLM-blue?style=flat-square)
 
-## Tech Focus
+## 技术方向
 
-| Area | Tools and strengths |
+| 方向 | 工具与特点 |
 |---|---|
-| Languages | Python, SQL-flavored data work, practical scripting |
-| Data and research | Tushare, market data handling, structured JSON outputs, research workflows |
-| LLM systems | DeepSeek-based agents, prompt workflows, reasoning pipelines |
-| Product layer | Streamlit apps, local tools, GitHub-facing documentation and demos |
+| 编程与脚本 | Python 为主，偏重实用型脚本与数据处理 |
+| 数据与投研 | Tushare、结构化 JSON 输出、可复用研究流程 |
+| LLM 系统 | DeepSeek 驱动的 Agent、Prompt 工作流、推理链路设计 |
+| 产品层 | Streamlit 应用、本地工具、面向 GitHub 展示的项目包装 |
 
-## Portfolio Snapshot
+## 作品概览
 
-| Focus | What I build |
+| 类别 | 我在做什么 |
 |---|---|
-| Multi-agent systems | Research agents for concept investing, macro-event interpretation, and portfolio construction |
-| Quant tooling | Backtests, stock analysis workflows, and market recap pipelines |
-| Runnable products | Local Python and Streamlit apps that can be demoed, reused, and extended |
-| Research infrastructure | Project structures that turn ad hoc analysis into repeatable tools |
+| 多智能体系统 | 概念选股、宏观事件解读、组合构建等投研 Agent 系统 |
+| 量化工具 | 回测、个股分析、行业轮动、市场复盘流水线 |
+| 可运行产品 | 可本地演示、可持续迭代的 Python / Streamlit 工具 |
+| 研究基础设施 | 把临时分析流程沉淀成可复用项目结构和工作流 |
 
-## Signature Projects
+## 代表项目
 
-| Project | Why it matters | Stack |
+| 项目 | 项目价值 | 技术栈 |
 |---|---|---|
-| [Macro Hotspot Agent](https://github.com/xinpipi-ai/macro-hotspot-agent) | Event-driven multi-agent system that maps macro narratives into weighted A-share portfolios with explicit risk review | Python, Tushare, DeepSeek |
-| [Concept Stock Agent](https://github.com/xinpipi-ai/concept-stock-agent) | Theme-driven stock selection workflow that decomposes a concept into industry-chain nodes and turns it into a backtested basket | Python, Tushare, DeepSeek |
-| [Timepoint Rotation](https://github.com/xinpipi-ai/timepoint-rotation) | Broader research workflow for market recap, industry rotation thinking, and data-powered daily research output | Python, Tushare, iFinD MCP |
-| [AI Quant Tool](https://github.com/xinpipi-ai/ai-quant-tool) | Runnable quant app with stock analysis, backtesting, and AI-assisted interpretation | Python, Streamlit, yfinance |
+| [宏观热点选股 Agent](https://github.com/xinpipi-ai/macro-hotspot-agent) | 把宏观事件转成 A 股组合的多智能体系统，包含行业映射、风险校验与加权回测 | Python, Tushare, DeepSeek |
+| [概念选股 Agent](https://github.com/xinpipi-ai/concept-stock-agent) | 把概念主题拆成产业链节点，再生成候选股票与组合回测结果 | Python, Tushare, DeepSeek |
+| [Timepoint Rotation](https://github.com/xinpipi-ai/timepoint-rotation) | 面向行业轮动和日常市场复盘的研究仓库，强调数据驱动与可重复工作流 | Python, Tushare, iFinD MCP |
+| [AI 量化工具](https://github.com/xinpipi-ai/ai-quant-tool) | 可直接运行的量化分析应用，支持回测、指标分析与 AI 辅助解读 | Python, Streamlit, yfinance |
 
-## Selected Builds
+## 其他项目
 
-- [AI Quant Assistant Project](https://github.com/xinpipi-ai/ai-quant-assistant-project)
-  Interactive AI quant research dashboard for factor analysis and event-driven idea generation.
+- [AI 量化研究助手](https://github.com/xinpipi-ai/ai-quant-assistant-project)
+  面向因子研究和事件驱动选股的交互式 AI 投研原型。
 - [AI Finance Demo](https://github.com/xinpipi-ai/ai-finance-demo)
-  Streamlit demo for AI-assisted report reading, financial diagnostics, and news interpretation.
-- [Merrill Clock Dashboard](https://github.com/xinpipi-ai/merrill-clock-dashboard)
-  Front-end visualization project for macro cycle and asset allocation ideas.
-- [Minutes Analyzer Workbench](https://github.com/xinpipi-ai/minutes-analyzer-workbench)
-  Local workbench for turning meeting minutes and call notes into structured research summaries.
+  用于演示 AI 辅助研报阅读、财务诊断和资讯解读的 Streamlit 项目。
+- [美林时钟可视化看板](https://github.com/xinpipi-ai/merrill-clock-dashboard)
+  将宏观周期和大类资产配置逻辑可视化的前端项目。
+- [会议纪要分析工作台](https://github.com/xinpipi-ai/minutes-analyzer-workbench)
+  把会议纪要和通话记录转成结构化研究摘要的本地工具。
 
-## What I Am Building Toward
+## 我想持续做的方向
 
-- stronger portfolio-quality software projects, not just one-off scripts
-- clearer README and GitHub presentation for each system
-- more reusable agent workflows for investment research use cases
-- a body of work that connects finance domain knowledge with software engineering growth
+- 做出更像正式作品集的项目，而不只是一次性脚本
+- 让每个仓库都具备更清晰的 README 和展示方式
+- 沉淀更多可以复用的投研 Agent 工作流
+- 形成一套把金融研究经验和软件工程能力结合起来的项目体系
 
-## Right Now
+## 当前在做
 
-- shipping more end-to-end research systems
-- improving code quality, documentation, and project presentation
-- making each repository feel more like a real product than a prototype
+- 持续发布端到端可运行的研究系统
+- 提升代码质量、文档质量和项目包装
+- 让每个仓库更接近真正可展示的产品，而不是原型
 
-## GitHub Stats
+## GitHub 统计
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=xinpipi-ai&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinpipi-ai&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170" />
 </p>
 
-## Notes
+## 说明
 
-Most of the projects here come from real needs and iterative development.
-My goal is not just to make them work, but to gradually turn them into stronger, more professional, and more representative pieces of work.
+这里的大部分项目都来自真实需求和持续迭代。
+我的目标不只是把它们做出来，而是一步步把它们打磨成更专业、更完整、也更能代表自己的作品。

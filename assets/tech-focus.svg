@@ -1,28 +1,28 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="420" rx="28" fill="#0D1626"/>
   <rect x="22" y="22" width="1156" height="376" rx="22" fill="url(#bg)"/>
-  <text x="62" y="88" fill="#F7FAFF" font-size="38" font-family="Arial, Helvetica, sans-serif" font-weight="700">Skills / Tech Focus</text>
-  <text x="62" y="126" fill="#C9D7F2" font-size="22" font-family="Arial, Helvetica, sans-serif">Investment research systems, data workflows, and local runnable products</text>
+  <text x="62" y="88" fill="#F7FAFF" font-size="38" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-weight="700">技术方向</text>
+  <text x="62" y="126" fill="#C9D7F2" font-size="22" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">投研系统、数据工作流，以及可本地运行的产品化项目</text>
   <rect x="62" y="170" width="252" height="170" rx="20" fill="#12233D"/>
   <rect x="336" y="170" width="252" height="170" rx="20" fill="#102A3A"/>
   <rect x="610" y="170" width="252" height="170" rx="20" fill="#1F2614"/>
   <rect x="884" y="170" width="252" height="170" rx="20" fill="#2B1F14"/>
-  <text x="92" y="214" fill="#F7FAFF" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Agent Workflows</text>
-  <text x="92" y="250" fill="#C9D7F2" font-size="19" font-family="Arial, Helvetica, sans-serif">multi-agent orchestration</text>
-  <text x="92" y="280" fill="#C9D7F2" font-size="19" font-family="Arial, Helvetica, sans-serif">prompted research pipelines</text>
-  <text x="92" y="310" fill="#C9D7F2" font-size="19" font-family="Arial, Helvetica, sans-serif">LLM-based reasoning layers</text>
-  <text x="366" y="214" fill="#F7FAFF" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Quant Tooling</text>
-  <text x="366" y="250" fill="#C9D7F2" font-size="19" font-family="Arial, Helvetica, sans-serif">backtesting workflows</text>
-  <text x="366" y="280" fill="#C9D7F2" font-size="19" font-family="Arial, Helvetica, sans-serif">A-share stock research</text>
-  <text x="366" y="310" fill="#C9D7F2" font-size="19" font-family="Arial, Helvetica, sans-serif">event-driven idea generation</text>
-  <text x="640" y="214" fill="#F7FAFF" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Data Systems</text>
-  <text x="640" y="250" fill="#DDF2C9" font-size="19" font-family="Arial, Helvetica, sans-serif">Tushare integration</text>
-  <text x="640" y="280" fill="#DDF2C9" font-size="19" font-family="Arial, Helvetica, sans-serif">structured JSON outputs</text>
-  <text x="640" y="310" fill="#DDF2C9" font-size="19" font-family="Arial, Helvetica, sans-serif">repeatable local pipelines</text>
-  <text x="914" y="214" fill="#F7FAFF" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700">Product Layer</text>
-  <text x="914" y="250" fill="#F2DCC9" font-size="19" font-family="Arial, Helvetica, sans-serif">Python applications</text>
-  <text x="914" y="280" fill="#F2DCC9" font-size="19" font-family="Arial, Helvetica, sans-serif">Streamlit interfaces</text>
-  <text x="914" y="310" fill="#F2DCC9" font-size="19" font-family="Arial, Helvetica, sans-serif">GitHub-ready project docs</text>
+  <text x="92" y="214" fill="#F7FAFF" font-size="24" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-weight="700">Agent 工作流</text>
+  <text x="92" y="250" fill="#C9D7F2" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">多智能体编排</text>
+  <text x="92" y="280" fill="#C9D7F2" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">Prompt 驱动研究流程</text>
+  <text x="92" y="310" fill="#C9D7F2" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">基于 LLM 的推理层</text>
+  <text x="366" y="214" fill="#F7FAFF" font-size="24" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-weight="700">量化工具</text>
+  <text x="366" y="250" fill="#C9D7F2" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">回测工作流</text>
+  <text x="366" y="280" fill="#C9D7F2" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">A 股研究工具</text>
+  <text x="366" y="310" fill="#C9D7F2" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">事件驱动选股</text>
+  <text x="640" y="214" fill="#F7FAFF" font-size="24" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-weight="700">数据系统</text>
+  <text x="640" y="250" fill="#DDF2C9" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">Tushare 接入</text>
+  <text x="640" y="280" fill="#DDF2C9" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">结构化 JSON 输出</text>
+  <text x="640" y="310" fill="#DDF2C9" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">可复用本地流水线</text>
+  <text x="914" y="214" fill="#F7FAFF" font-size="24" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif" font-weight="700">产品层</text>
+  <text x="914" y="250" fill="#F2DCC9" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">Python 应用</text>
+  <text x="914" y="280" fill="#F2DCC9" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">Streamlit 界面</text>
+  <text x="914" y="310" fill="#F2DCC9" font-size="19" font-family="'PingFang SC','Microsoft YaHei',Arial,Helvetica,sans-serif">GitHub 展示文档</text>
   <defs>
     <linearGradient id="bg" x1="22" y1="22" x2="1178" y2="398" gradientUnits="userSpaceOnUse">
       <stop stop-color="#101D33"/>
