@@ -46,6 +46,7 @@
 | [概念选股 Agent](https://github.com/xinpipi-ai/concept-stock-agent) | 把概念主题拆成产业链节点，再生成候选股票与组合回测结果 | Python, Tushare, DeepSeek |
 | [Timepoint Rotation](https://github.com/xinpipi-ai/timepoint-rotation) | 面向行业轮动和日常市场复盘的研究仓库，强调数据驱动与可重复工作流 | Python, Tushare, iFinD MCP |
 | [AI 量化工具](https://github.com/xinpipi-ai/ai-quant-tool) | 可直接运行的量化分析应用，支持回测、指标分析与 AI 辅助解读 | Python, Streamlit, yfinance |
+| [高股息行业均仓策略](https://github.com/xinpipi-ai/high-dividend-industry-equal-weight) | 用 Tushare 复现并回测高股息行业均仓逻辑，包含脱敏数据接口、月度调仓和公开结果摘要 | Python, Tushare, Pandas |
 
 ## 其他项目
 
